@@ -1,0 +1,14 @@
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/WordleGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/WordleGame.AssemblyInfoInputs.cache
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/WordleGame.AssemblyInfo.cs
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/WordleGame.csproj.CoreCompileInputs.cache
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/bin/Debug/net8.0/WordleGame
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/bin/Debug/net8.0/WordleGame.deps.json
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/bin/Debug/net8.0/WordleGame.runtimeconfig.json
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/bin/Debug/net8.0/WordleGame.dll
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/bin/Debug/net8.0/WordleGame.pdb
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/WordleGame.dll
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/refint/WordleGame.dll
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/WordleGame.pdb
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/WordleGame.genruntimeconfig.cache
+/home/avramescu-mario/Projects/learn-csharp/Wordle/WordleGame/obj/Debug/net8.0/ref/WordleGame.dll
